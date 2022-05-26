@@ -1,15 +1,25 @@
-description: Describe your stack 
+description: Desenvolva e publique Workers que executam rotinas da empresa no seu produto com nossa Stack cloud native .NET.
 name: carbon-dotnet-worker-stack
-display-name: carbon-dotnet-worker-stack
+display-name: Stack Worker
 picture: stack.png
-category: backend # Ref: https://docs.stackspot.com/latest/docs/creators-guide/yaml/#category
-compatibility: # Put a list of technologies compatible with the stack
-  - java
-  - spring
-technologies: # Ref: https://docs.stackspot.com/latest/docs/creators-guide/yaml/#technologies 
-  - docker 
+category: Backend
+compatibility:
+  - net5.0
+  - net6.0
+technologies: 
+  - .NET
+  - C#
+  - Worker
+  - Splunk
+  - Prometheus
+  - Jaeger
+  - AWS SQS
+  - AWS SNS
+  - AWS DynamoDB
+  - Docker
+  - AWS ECS/Fargate 
 about: docs/about.md
 use-cases:
-  - title: Use Case Title
+  - title: Basic Worker
     content: docs/use-case.md
-    stackfile: stackfiles/default.yaml
+    stackfile: stackfiles/basic-worker.yaml
