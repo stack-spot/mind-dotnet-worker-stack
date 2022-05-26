@@ -1,0 +1,3 @@
+[submodule "dotnet-worker-template"]
+	path = dotnet-worker-template
+	url = https://github.com/stack-spot/dotnet-worker-template.git
