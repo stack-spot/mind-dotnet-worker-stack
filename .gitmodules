@@ -10,3 +10,6 @@
 [submodule "dotnet-trace-app-plugin"]
 	path = dotnet-trace-app-plugin
 	url = https://github.com/stack-spot/dotnet-trace-app-plugin.git
+[submodule "dotnet-repository-app-plugin"]
+	path = dotnet-repository-app-plugin
+	url = https://github.com/stack-spot/dotnet-repository-app-plugin.git
