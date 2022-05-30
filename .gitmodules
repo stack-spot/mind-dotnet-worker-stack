@@ -1,3 +1,6 @@
 [submodule "dotnet-worker-template"]
 	path = dotnet-worker-template
 	url = https://github.com/stack-spot/dotnet-worker-template.git
+[submodule "dotnet-metrics-app-plugin"]
+	path = dotnet-metrics-app-plugin
+	url = https://github.com/stack-spot/dotnet-metrics-app-plugin.git
