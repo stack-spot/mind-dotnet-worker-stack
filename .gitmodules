@@ -13,3 +13,6 @@
 [submodule "dotnet-repository-app-plugin"]
 	path = dotnet-repository-app-plugin
 	url = https://github.com/stack-spot/dotnet-repository-app-plugin.git
+[submodule "dotnet-queue-app-plugin"]
+	path = dotnet-queue-app-plugin
+	url = https://github.com/stack-spot/dotnet-queue-app-plugin.git
