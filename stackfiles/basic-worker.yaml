@@ -1,4 +1,4 @@
 type: app
 displayName: Basic Worker
 description: Template para desenvolver um Worker completo utilizando C#, em execução em um cluster de contêiner.
-template: carbon-dotnet-worker-stack/dotnet-worker-template
+template: mind-dotnet-worker-stack/dotnet-worker-template

@@ -1,4 +1,4 @@
-# carbon-dotnet-worker-stack
+# mind-dotnet-worker-stack
 
 Desenvolva e publique Workers para conectar softwares da empresa no seu produto com nossa Stack cloud native .NET. Nossa stack inclui suporte ao Clean Arch, observabilidade, conexão com filas, além de rodar sobre containers Docker na AWS.  
 
@@ -6,7 +6,7 @@ A nossa Stack apresenta uma estrutura básica onde o template inicia todo o cicl
 
 Ao usar a Stack Worker, é possível adicionar “superpoderes” ao seu template utilizando nossos plugins, como a capacidade de logs centralizados, publicação de métricas no Prometheus ou conexão com um banco de dados, por exemplo.  
 
-Na prática, um plugin pode adicionar dependências ao seu projeto, criar alguns arquivos e se necessário, executar alguns comandos. Também damos a liberdade para que os times de desenvolvimento apliquem plugins de acordo com suas necessidades. É possível listar todos os plugins disponibilizados pelo estúdio Carbon através do nosso canal CLI.  
+Na prática, um plugin pode adicionar dependências ao seu projeto, criar alguns arquivos e se necessário, executar alguns comandos. Também damos a liberdade para que os times de desenvolvimento apliquem plugins de acordo com suas necessidades. É possível listar todos os plugins disponibilizados pelo estúdio Mind através do nosso canal CLI.  
 
 Com isso, formamos um conjunto de soluções, sendo eles: templates e plugins compondo a nossa Stack Worker, que ajuda os times de desenvolvimento a resolver um problema específico do negócio.  
 

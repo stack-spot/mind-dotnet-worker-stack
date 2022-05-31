@@ -2,7 +2,7 @@ Oferecemos velocidade e confiança através de nossa Stack para times de desenvo
 
 Iniciando seu produto através de nosso template base, trazemos o benefício onde você pode buildar e executar o projeto localmente. Ressaltamos que nossa Stack não é intrusiva, criamos código para ajudar times de desenvolvimento, mas cada desenvolvedor opta pelo o que prefere usar.  
 
-Para começar sua jornada de desenvolvimento utilizando os recursos disponibilizados pelo Estúdio Carbon aplique o template base para iniciar o desenvolvimento de um Worker completo utilizando C#, rodando em um cluster de contêiner.  
+Para começar sua jornada de desenvolvimento utilizando os recursos disponibilizados pelo Estúdio Mind aplique o template base para iniciar o desenvolvimento de um Worker completo utilizando C#, rodando em um cluster de contêiner.  
 
 ### Visão Geral
 O **dotnet-worker-template** adiciona em uma stack a capacidade de provisionar serviços que executam em background.

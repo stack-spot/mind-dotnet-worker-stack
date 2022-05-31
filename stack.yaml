@@ -1,5 +1,5 @@
 description: Desenvolva e publique Workers que executam rotinas da empresa no seu produto com nossa Stack cloud native .NET.
-name: carbon-dotnet-worker-stack
+name: mind-dotnet-worker-stack
 display-name: Stack Worker
 picture: stack.png
 category: Backend
