@@ -31,3 +31,6 @@
 [submodule "dotnet-metrics-plugin"]
 	path = dotnet-metrics-plugin
 	url = https://github.com/stack-spot/dotnet-metrics-plugin.git
+[submodule "dotnet-queue-plugin"]
+	path = dotnet-queue-plugin
+	url = https://github.com/stack-spot/dotnet-queue-plugin.git
