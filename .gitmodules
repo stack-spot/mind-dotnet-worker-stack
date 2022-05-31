@@ -40,3 +40,6 @@
 [submodule "dotnet-repository-plugin"]
 	path = dotnet-repository-plugin
 	url = https://github.com/stack-spot/dotnet-repository-plugin.git
+[submodule "dotnet-secrets-plugin"]
+	path = dotnet-secrets-plugin
+	url = https://github.com/stack-spot/dotnet-secrets-plugin.git
